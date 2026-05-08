@@ -17,7 +17,7 @@ document.querySelector('#app').innerHTML = `
       Welcome to AIE Hyd
     </div>
     <div class="bg-amber-200 m-2 p-3 inline-block">
-      Welcome to AIE Indiaa
+      Welcome to AIE India
     </div>
 
     <div class="bg-amber-200 m-2 p-3 inline-block">
